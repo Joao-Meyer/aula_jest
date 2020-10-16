@@ -1,3 +1,6 @@
+# Aula de Jest
+Aula de Jest do curso de Desenvolvimento  de Sistemas do Senai Jandira.
+
 # Instruções para a aula
 
 ### Criação do banco de dados:
